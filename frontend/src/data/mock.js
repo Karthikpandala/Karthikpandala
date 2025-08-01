@@ -2,7 +2,7 @@ export const mockData = {
   hero: {
     name: "Karthik Pandala",
     tagline: "Building Intelligent, Gesture-Driven Software",
-    profileImage: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'%3E%3Ccircle cx='200' cy='200' r='200' fill='%23f4ce14'/%3E%3Cg transform='translate(80,120)'%3E%3Cpath d='M120 20 C140 10, 160 10, 180 20 C200 30, 210 60, 200 90 C190 120, 170 140, 150 140 C130 140, 110 120, 100 90 C90 60, 100 30, 120 20 Z' fill='%23d4af37'/%3E%3Cellipse cx='130' cy='80' rx='8' ry='12' fill='%23333'/%3E%3Cellipse cx='170' cy='80' rx='8' ry='12' fill='%23333'/%3E%3Cpath d='M140 100 Q150 110 160 100' stroke='%23333' stroke-width='3' fill='none'/%3E%3C/g%3E%3C/svg%3E"
+    profileImage: "/api/placeholder/400/400"
   },
   about: {
     bio: "I'm a passionate Computer Science student and full-stack developer with expertise in building innovative applications that blend cutting-edge technology with user-centric design. My journey spans from gesture-controlled productivity tools to intelligent recommendation systems, always focused on creating meaningful digital experiences."
