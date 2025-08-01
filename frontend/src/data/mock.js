@@ -5,7 +5,7 @@ export const mockData = {
     profileImage: "/api/placeholder/400/400"
   },
   about: {
-    bio: "I build intuitive, intelligent systems that enable computers to see and respond to the real world. My focus is on real-time, interactive applications powered by computer vision and machine learning. I value clear code, creative problem-solving, and collaborative projects."
+    bio: "I'm Karthik Pandala, a software engineer building systems that see. My focus is computer vision, AI, and real-time interaction—using technologies like OpenCV, TensorFlow, and PyTorch to create intuitive, responsive applications. I deliver clean code, robust solutions, and impactful projects—always user-focused and performance-tested."
   },
   skills: {
     categories: [
