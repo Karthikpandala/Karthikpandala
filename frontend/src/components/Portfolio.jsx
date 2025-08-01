@@ -141,9 +141,16 @@ const Portfolio = () => {
                   </div>
                 </div>
                 <div className="flex-1 space-y-6">
-                  <h3 className="text-2xl md:text-3xl font-semibold text-slate-900">
-                    {project.title}
-                  </h3>
+                  <div className="flex items-center gap-3 mb-4">
+                    <h3 className="text-2xl md:text-3xl font-semibold text-slate-900">
+                      {project.title}
+                    </h3>
+                    {project.status && (
+                      <Badge className="bg-green-100 text-green-800 hover:bg-green-200">
+                        {project.status}
+                      </Badge>
+                    )}
+                  </div>
                   <p className="text-lg text-slate-600 leading-relaxed">
                     {project.description}
                   </p>
@@ -165,6 +172,13 @@ const Portfolio = () => {
                       </li>
                     ))}
                   </ul>
+                  {project.outcome && (
+                    <div className="bg-slate-50 p-4 rounded-lg border-l-4 border-blue-600">
+                      <p className="text-slate-700 font-medium">
+                        <span className="text-blue-600 font-semibold">Outcome:</span> {project.outcome}
+                      </p>
+                    </div>
+                  )}
                   <div className="flex gap-4 pt-4">
                     {project.githubLink && (
                       <Button
