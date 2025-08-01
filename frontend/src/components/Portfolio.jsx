@@ -320,7 +320,7 @@ const Portfolio = () => {
               © 2024 Karthik Pandala. All rights reserved.
             </p>
             <p className="text-slate-500 text-sm">
-              "Let's build something amazing together"
+              "Let's build something that sees the world together."
             </p>
           </div>
         </div>
