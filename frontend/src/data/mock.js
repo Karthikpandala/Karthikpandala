@@ -1,11 +1,11 @@
 export const mockData = {
   hero: {
-    name: "Karthik Pandala",
-    tagline: "Building Intelligent, Gesture-Driven Software",
+    name: "Building Systems That See: Karthik Pandala",
+    tagline: "Software engineer specializing in computer vision, AI, and seamless human-computer interaction",
     profileImage: "/api/placeholder/400/400"
   },
   about: {
-    bio: "I'm a passionate Computer Science student and full-stack developer with expertise in building innovative applications that blend cutting-edge technology with user-centric design. My journey spans from gesture-controlled productivity tools to intelligent recommendation systems, always focused on creating meaningful digital experiences."
+    bio: "I build intuitive, intelligent systems that enable computers to see and respond to the real world. My focus is on real-time, interactive applications powered by computer vision and machine learning. I value clear code, creative problem-solving, and collaborative projects."
   },
   skills: {
     categories: [
