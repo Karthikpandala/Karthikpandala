@@ -89,19 +89,19 @@ export const mockData = {
       title: "AI and Data Science Hackathon Winner",
       issuer: "Brainovision",
       year: "2023",
-      description: "Won first place developing Optimized Manufacturing Planning (OMP) solutions for Aerospace Industry using Python, NumPy, Pandas, and Matplotlib."
+      description: "Won first place developing Optimized Manufacturing Planning (OMP) solutions for Aerospace Industry using Python, NumPy, Pandas, and Matplotlib. Demonstrated excellence in data analysis and algorithmic problem-solving under pressure."
     },
     {
-      title: "5 Days Workshop on AI-ML and Data Science",
-      issuer: "Tech Institute",
+      title: "Advanced AI-ML and Data Science Workshop",
+      issuer: "Tech Innovation Institute",
       year: "2023",
-      description: "Intensive hands-on workshop covering data analytics, Python libraries, and machine learning concepts with practical project implementations."
+      description: "Intensive 5-day workshop covering computer vision, machine learning algorithms, and data analytics using Python libraries. Gained hands-on experience with real-time data processing and model optimization."
     },
     {
-      title: "Advanced Software Development Training",
-      issuer: "Campus to Technical Careers",
+      title: "Advanced Software Development & Professional Skills",
+      issuer: "Campus to Technical Careers Program",
       year: "2023",
-      description: "Comprehensive training in Core Java 8, Hibernate, Spring Boot, full-stack development, and professional software development practices."
+      description: "Comprehensive training in full-stack development, covering Core Java 8, Hibernate, Spring Boot, and modern web technologies. Strengthened collaborative development and technical communication skills."
     }
   ],
   education: [
