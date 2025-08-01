@@ -39,12 +39,15 @@ const Portfolio = () => {
         <div className="container mx-auto max-w-6xl">
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="flex-1 space-y-6">
-              <h1 className="text-5xl md:text-7xl font-light text-slate-900 leading-tight">
-                Karthik
+              <h1 className="text-4xl md:text-6xl font-light text-slate-900 leading-tight">
+                Building Systems
                 <br />
-                <span className="font-semibold">Pandala</span>
+                <span className="font-semibold text-blue-600">That See</span>
               </h1>
-              <p className="text-xl md:text-2xl text-slate-600 font-light max-w-lg">
+              <h2 className="text-xl font-semibold text-slate-800 mb-2">
+                Karthik Pandala
+              </h2>
+              <p className="text-lg md:text-xl text-slate-600 font-light max-w-lg">
                 {mockData.hero.tagline}
               </p>
               <div className="flex gap-4 pt-4">
