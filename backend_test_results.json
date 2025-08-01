@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-08-01T07:29:54.638389",
+  "total_tests": 7,
+  "passed_tests": 6,
+  "failed_tests": 1,
+  "results": [
+    {
+      "test": "API Health Check",
+      "success": true,
+      "details": "API is running and healthy",
+      "timestamp": "2025-08-01T07:29:54.417155"
+    },
+    {
+      "test": "Profile API",
+      "success": true,
+      "details": "Profile data validated successfully. CV/AI keywords found: ['computer vision', 'ai', 'opencv', 'tensorflow', 'pytorch']",
+      "timestamp": "2025-08-01T07:29:54.457100"
+    },
+    {
+      "test": "Skills API",
+      "success": true,
+      "details": "Skills validated successfully. CV/AI skills found: ['OpenCV', 'TensorFlow', 'PyTorch']",
+      "timestamp": "2025-08-01T07:29:54.493971"
+    },
+    {
+      "test": "Projects API",
+      "success": true,
+      "details": "Projects validated successfully. CV projects found: ['Time Quacker: Gesture-Controlled Productivity Assistant', 'Real-Time Weather & Environmental Insight Engine']",
+      "timestamp": "2025-08-01T07:29:54.532331"
+    },
+    {
+      "test": "Certificates API",
+      "success": true,
+      "details": "Certificates validated successfully. AI/DS certificates found: ['AI and Data Science Hackathon Winner', 'Advanced AI-ML and Data Science Workshop', 'Advanced Software Development & Professional Skills']",
+      "timestamp": "2025-08-01T07:29:54.583023"
+    },
+    {
+      "test": "Education API",
+      "success": true,
+      "details": "Education records validated successfully",
+      "timestamp": "2025-08-01T07:29:54.618029"
+    },
+    {
+      "test": "CORS Headers",
+      "success": false,
+      "details": "CORS headers not found or improperly configured",
+      "timestamp": "2025-08-01T07:29:54.638012"
+    }
+  ]
+}
