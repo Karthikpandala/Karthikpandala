@@ -10,24 +10,24 @@ export const mockData = {
   skills: {
     categories: [
       {
-        name: "Programming Languages",
-        items: ["C/C++", "Java", "JavaScript", "Python"]
+        name: "Computer Vision & AI",
+        items: ["OpenCV", "TensorFlow", "PyTorch", "Machine Learning", "Real-time Processing"]
       },
       {
-        name: "Technologies & Frameworks",
-        items: ["Node.js", "Electron.js", "REST APIs", "Streamlit"]
+        name: "Programming Languages",
+        items: ["Python", "JavaScript", "C/C++", "Java"]
+      },
+      {
+        name: "Frameworks & Libraries",
+        items: ["Electron.js", "Node.js", "Streamlit", "REST APIs", "Spring Boot"]
       },
       {
         name: "Databases & Tools",
-        items: ["MySQL", "MongoDB", "Git", "Version Control"]
+        items: ["MySQL", "MongoDB", "Git", "Version Control", "SDLC"]
       },
       {
-        name: "Concepts & Methodologies",
-        items: ["SDLC", "Machine Learning", "Computer Vision", "Data Analysis"]
-      },
-      {
-        name: "Soft Skills",
-        items: ["Team Collaboration", "Problem Solving", "Time Management", "Communication"]
+        name: "Core Concepts",
+        items: ["Computer Vision", "Interactive Systems", "Full-Stack Development", "Data Analysis", "Networking"]
       }
     ]
   },
